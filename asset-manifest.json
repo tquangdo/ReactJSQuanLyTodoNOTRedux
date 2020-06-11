@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/quanly-todo-notredux/static/js/main.092a800e.chunk.js",
+    "main.js.map": "/quanly-todo-notredux/static/js/main.092a800e.chunk.js.map",
+    "runtime-main.js": "/quanly-todo-notredux/static/js/runtime-main.6c986063.js",
+    "runtime-main.js.map": "/quanly-todo-notredux/static/js/runtime-main.6c986063.js.map",
+    "static/js/2.28424e12.chunk.js": "/quanly-todo-notredux/static/js/2.28424e12.chunk.js",
+    "static/js/2.28424e12.chunk.js.map": "/quanly-todo-notredux/static/js/2.28424e12.chunk.js.map",
+    "index.html": "/quanly-todo-notredux/index.html",
+    "precache-manifest.8be6cce0b391387dd74dfbcc1c3be983.js": "/quanly-todo-notredux/precache-manifest.8be6cce0b391387dd74dfbcc1c3be983.js",
+    "service-worker.js": "/quanly-todo-notredux/service-worker.js",
+    "static/js/2.28424e12.chunk.js.LICENSE.txt": "/quanly-todo-notredux/static/js/2.28424e12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c986063.js",
+    "static/js/2.28424e12.chunk.js",
+    "static/js/main.092a800e.chunk.js"
+  ]
+}
